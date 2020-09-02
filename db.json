@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title" : "helloW",
+      "title" : "Hello World",
       "Text": "This is my request",
       "City" : "Sevastopol",
       "Mood" : "Good"
