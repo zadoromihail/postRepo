@@ -5,7 +5,9 @@
       "title" : "Bad title",
       "Text": "This is my request",
       "City" : "Sevastopol",
-      "Mood" : "Good"
+      "Mood" : "Good",
+      "age" : "21",
+      "sex" : "male"
     }
   ],
   "profile": {
