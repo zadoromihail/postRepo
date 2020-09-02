@@ -1,6 +1,10 @@
 
-{
- "information" : {
-"Text" : "Hello world ", "City" : "Sevastopol", "Mood" : "Good"
- }
-}
+ "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
