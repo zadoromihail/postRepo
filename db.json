@@ -1,5 +1,6 @@
 
 {
+ "information" : [
 "Text" : "Hello world ", "City" : "Sevastopol", "Mood" : "Good"
- 
+ ]
 }
